@@ -1,8 +1,9 @@
 
 
 # Modelo de Perceptron
+<BR>
 
-!(Perceptron.png)
+![Diagrama da estrutura de um neurónio artificial Perceptron com 7 entradas e pesos](Perceptron.png)
 
 
 O **Perceptron** é o algoritmo de aprendizado supervisionado mais simples utilizado para classificação de padrões binários. <br>
